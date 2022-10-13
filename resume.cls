@@ -119,7 +119,7 @@
 
 \newcommand{\compact}[4][]{
 	\color{maintext}
-	\subsection{#2}
+	\subsection{#2} 
 	\vspace{-5pt}
 	\small
 	\notblank{#3}{\emph{#3}}{}
